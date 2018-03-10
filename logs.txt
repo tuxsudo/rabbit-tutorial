@@ -1,0 +1,4 @@
+ [*] Waiting for messages in amq.gen-SmZm-3r3-V5PfdYotoq9ug. To exit press CTRL+C
+ [x] Hello World!
+ [x] hello there
+ [x] hello there
